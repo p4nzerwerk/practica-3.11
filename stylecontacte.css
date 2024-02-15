@@ -1,0 +1,26 @@
+h2.titulo {
+    text-align: center;
+    color: blue;
+    background-color: lightpink;
+}
+
+nav.enlaces {
+    text-align: center;
+}
+
+
+
+main {
+    background-color: lightsalmon;
+    text-align: center;
+    color: blue;
+}
+
+h3.uno {
+   
+}
+
+a:active{
+    background-color: yellow;
+    color: black;
+}

@@ -1,0 +1,57 @@
+h2.titulo {
+    text-align: center;
+    color: blue;
+    background-color: lightpink;
+    t
+}
+
+nav {
+    text-align: center;
+
+}
+
+a:active{
+    background-color: yellow;
+    color: black;
+}
+
+ div.principal {
+    text-align: center;
+    display: inline-block;
+} 
+
+div.anteriors {
+    color: blue;
+    background-color: lightsalmon;
+    width: 250px;
+    height: 250px;
+    z-index: 1;
+    
+}
+
+div.nominats {
+    color: red;
+    background-color: lightseagreen;
+    width: 250px;
+    height: 250px;
+    
+    z-index: 2;
+}
+
+div.contacte {
+    color: blue;
+    background-color: lightsalmon;
+    width: 250px;
+    height: 250px;
+    z-index: 1;
+    
+}
+
+footer{
+    text-align: center;
+    color: blue;
+    background-color: yellow;
+}
+
+
+
